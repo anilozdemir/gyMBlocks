@@ -1,0 +1,9 @@
+numpy
+matplotlib
+pandas
+seaborn 
+gym
+torch
+joblib
+tqdm
+ipywidgets
