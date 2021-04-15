@@ -1,6 +1,6 @@
 # gyMBlocks: Gym environment for M-Blocks
 
-The experiments here are used for extended abstract submitted to [EEML Summer School 2021](https://www.eeml.eu)
+The experiments here are used in the extended abstract submitted to [EEML Summer School 2021](https://www.eeml.eu).
 
 ## Install
 
