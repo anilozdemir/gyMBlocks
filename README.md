@@ -17,7 +17,7 @@ A simple simulator for M-Blocks on a Gridworld: [M-Blocks Simulator](https://git
 - [Associated paper](http://aozdemir.net/publication/mrs2019/mrs2019.pdf)
 - [Supplementary materials](https://doi.org/10.6084/m9.figshare.8527148)
 
-> Cite:
+> cite
 ```latex
 @InProceedings{ozdemir2019decentralized,
   author    = {{\"O}zdemir, Anil and Romanishin, John W. and Gro{\ss}, Roderich and Rus, Daniela},
